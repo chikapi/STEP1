@@ -3,7 +3,7 @@ body {
 }
 
 div#form {
-  width: 600px;
+  width: 500px;
   margin: 50px auto;
   background-color: #bfbdbb;
   padding: 10%;
@@ -13,6 +13,6 @@ div#list {
   width: 600px;
   margin: 50px auto;
   border: dashed 4px #AAA;
-  background-color: #bfbdbb;
+  background-color: #ffffff;
   padding: 10px 20px;
 }
