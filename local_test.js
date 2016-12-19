@@ -32,8 +32,8 @@ function showText() {
   list.children().remove();
   // ローカルストレージに保存された値すべてを要素に追加する
   var key, value, html = [];
-  for(var i=0, len=localStorage.length; i<len; len--) {
-    key = localStorage.key(len);
+  for(var i=1, len=localStorage.length; i<=len; i++) {
+    key = localStorage.key(len-i);
     value = localStorage.getItem(key);
     // 表示する前にエスケープ
     html.push($("<p>").html(escapeText(value)));
