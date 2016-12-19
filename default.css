@@ -9,7 +9,7 @@ div#form {
   padding: 10%;
 }
 
-h2#list {
+div#list {
   width: 600px;
   margin: 50px auto;
   border: dashed 4px #AAA;
