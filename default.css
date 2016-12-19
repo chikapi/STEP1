@@ -1,16 +1,18 @@
 body {
-  background-color: #622;
+  background-color: #9bc1a1;
 }
 
 div#form {
   width: 600px;
   margin: 50px auto;
-  background-color: #EEE;
+  background-color: #bfbdbb;
   padding: 10%;
 }
 
 h2#list {
+  width: 600px;
+  margin: 50px auto;
   border: dashed 4px #AAA;
-  background-color: #FFF;
+  background-color: #bfbdbb;
   padding: 10px 20px;
 }
