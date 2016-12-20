@@ -9,6 +9,6 @@ ToDoリスト
 作成者：平松千佳　
 作成日時：2016/12/20　
 環境：Google Chrome　
-言語：　avascript,html,css　
+言語：Javascript,html,css　
 
 
